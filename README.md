@@ -85,6 +85,6 @@
 </div>
 
 </br></br>
-  <img  alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SynthesisOne&include_all_commits=true&show_icons=true&theme=dark&count_private=true"/>
-  <img  alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SynthesisOne&langs_count=8&layout=compact&include_all_commits=true&theme=dark&count_private=true"/>
+  <img  alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Halvanhelv&include_all_commits=true&show_icons=true&theme=dark&count_private=true"/>
+  <img  alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Halvanhelv&langs_count=8&layout=compact&include_all_commits=true&theme=dark&count_private=true"/>
 
