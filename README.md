@@ -20,15 +20,15 @@
 ## I'M A BACKEND DEVELOPER, I LIKE TO CODE IN THE MORNING 
 
 
-- [Сode](https://github.com/SynthesisOne/QnA) | [Need to deploy ](https://github.com/SynthesisOne/QnA)  Stack Overflow analogue
-- [Сode](https://github.com/SynthesisOne/Test-Guru) | [Need to deploy ](https://github.com/SynthesisOne/Test-Guru) Creating and passing quizzes
-- [Сode](https://github.com/SynthesisOne/simpler) | [Need to deploy ](https://github.com/SynthesisOne/simpler) Rails like mini-framework
-- [Сode](https://github.com/SynthesisOne/Black_Jack) | [Need to deploy ](https://github.com/SynthesisOne/Black_Jack)  Console version of blackjack
-- [Сode](https://github.com/SynthesisOne/MyCaptcha) | [Need to deploy ](https://github.com/SynthesisOne/MyCaptcha)  Captcha generator
-- [Сode](https://github.com/SynthesisOne/Egrad) | [Need to deploy ](https://github.com/SynthesisOne/Egrad)  E-commerce website on a custom PHP framework
+- [Сode](https://github.com/Halvanhelv/QnA) | [Need to deploy ](https://github.com/Halvanhelv/QnA)  Stack Overflow analogue
+- [Сode](https://github.com/Halvanhelv/Test-Guru) | [Need to deploy ](https://github.com/Halvanhelv/Test-Guru) Creating and passing quizzes
+- [Сode](https://github.com/Halvanhelv/simpler) | [Need to deploy ](https://github.com/Halvanhelv/simpler) Rails like mini-framework
+- [Сode](https://github.com/Halvanhelv/Black_Jack) | [Need to deploy ](https://github.com/Halvanhelv/Black_Jack)  Console version of blackjack
+- [Сode](https://github.com/Halvanhelv/MyCaptcha) | [Need to deploy ](https://github.com/Halvanhelv/MyCaptcha)  Captcha generator
+- [Сode](https://github.com/Halvanhelv/Egrad) | [Need to deploy ](https://github.com/Halvanhelv/Egrad)  E-commerce website on a custom PHP framework
 
 
-- [Сode](https://github.com/SynthesisOne/SynthesisOne.github.io) | [Demo](https://synthesisone.github.io)  Site landing
+- [Сode](https://github.com/Halvanhelv/Halvanhelv.github.io) | [Demo](https://Halvanhelv.github.io)  Site landing
 
 
 <div >
