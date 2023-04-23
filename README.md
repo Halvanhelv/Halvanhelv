@@ -21,15 +21,15 @@
 # 🌟 Pet projects I've worked on:
 
 
-- [Сode](https://github.com/Halvanhelv/QnA) | [Need to deploy ](https://github.com/Halvanhelv/QnA)  Stack Overflow analogue
-- [Сode](https://github.com/Halvanhelv/Test-Guru) | [Need to deploy ](https://github.com/Halvanhelv/Test-Guru) Creating and passing quizzes
-- [Сode](https://github.com/Halvanhelv/simpler) | [Need to deploy ](https://github.com/Halvanhelv/simpler) Rails like mini-framework
-- [Сode](https://github.com/Halvanhelv/Black_Jack) | [Need to deploy ](https://github.com/Halvanhelv/Black_Jack)  Console version of blackjack
-- [Сode](https://github.com/Halvanhelv/MyCaptcha) | [Need to deploy ](https://github.com/Halvanhelv/MyCaptcha)  Captcha generator
-- [Сode](https://github.com/Halvanhelv/Egrad) | [Need to deploy ](https://github.com/Halvanhelv/Egrad)  E-commerce website on a custom PHP framework
+- [Сode](https://github.com/Halvanhelv/QnA) | [Stack Overflow analogue](https://github.com/Halvanhelv/QnA)
+- [Сode](https://github.com/Halvanhelv/Test-Guru) | [Creating and passing quizzes](https://github.com/Halvanhelv/Test-Guru)
+- [Сode](https://github.com/Halvanhelv/simpler) | [Rails like mini-framework](https://github.com/Halvanhelv/simpler)
+- [Сode](https://github.com/Halvanhelv/Black_Jack) | [Console version of blackjack](https://github.com/Halvanhelv/Black_Jack)
+- [Сode](https://github.com/Halvanhelv/MyCaptcha) | [Captcha generator](https://github.com/Halvanhelv/MyCaptcha)
+- [Сode](https://github.com/Halvanhelv/Egrad) | [E-commerce website on a custom PHP framework](https://github.com/Halvanhelv/Egrad)
 
 
-- [Сode](https://github.com/Halvanhelv/Halvanhelv.github.io) | [Demo](https://Halvanhelv.github.io)  Site landing
+- [Сode](https://github.com/Halvanhelv/Halvanhelv.github.io) | [Just layout](https://Halvanhelv.github.io)
 
 
 <div >
