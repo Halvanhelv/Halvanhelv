@@ -17,7 +17,8 @@
 
 </br>
 
-## I'M A BACKEND DEVELOPER, I LIKE TO CODE IN THE MORNING 
+## 👨‍💻 I'm a Backend Developer who loves coding in the morning
+# 🌟 Pet projects I've worked on:
 
 
 - [Сode](https://github.com/Halvanhelv/QnA) | [Need to deploy ](https://github.com/Halvanhelv/QnA)  Stack Overflow analogue
@@ -35,7 +36,7 @@
 
 </br>
 
-### My skills:
+## 💻 My skills:
  
  
 <img src="https://img.shields.io/badge/-Ruby-090909?style=for-the-badge&logo=Ruby&logoColor=8e1c17"/>
