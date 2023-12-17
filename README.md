@@ -17,7 +17,7 @@
 
 </br>
 
-## 👨‍💻 I'm a Backend Developer who loves coding in the morning
+## 👨‍💻 I'm a Backend Developer
 # 🌟 Pet projects I've worked on:
 
 - [Сode](https://github.com/Halvanhelv/QnA) | [DeepL API wrapper helps to translate only changes between revisions of long texts.](https://github.com/Halvanhelv/deepl_diff)
