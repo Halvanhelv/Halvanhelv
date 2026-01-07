@@ -16,7 +16,7 @@
 
 # 🌟 Open source projects I've worked on:
 - [DeepL API wrapper helps to translate only changes between revisions of long texts](https://github.com/Halvanhelv/deepl_diff)
-- [ebay_request](https://github.com/ebaymag/ebay_request) | eBay XML API request interface
+- [eBay XML API request interface](https://github.com/ebaymag/ebay_request)
 - [Ruby client to eBay RESTful JSON API](https://github.com/ebaymag/ebay_api)
 
 
