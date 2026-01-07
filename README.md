@@ -18,6 +18,7 @@
 - [DeepL API wrapper helps to translate only changes between revisions of long texts](https://github.com/Halvanhelv/deepl_diff)
 - [eBay XML API request interface](https://github.com/ebaymag/ebay_request)
 - [Ruby client to eBay RESTful JSON API](https://github.com/ebaymag/ebay_api)
+- [Captcha generator](https://github.com/Halvanhelv/MyCaptcha)
 
 
 </br>
@@ -27,7 +28,6 @@
 - [Сode](https://github.com/Halvanhelv/QnA) | [Stack Overflow analogue](https://github.com/Halvanhelv/QnA)
 - [Сode](https://github.com/Halvanhelv/Test-Guru) | [Creating and passing quizzes](https://github.com/Halvanhelv/Test-Guru)
 - [Сode](https://github.com/Halvanhelv/simpler) | [Rails like mini-framework](https://github.com/Halvanhelv/simpler)
-- [Сode](https://github.com/Halvanhelv/MyCaptcha) | [Captcha generator](https://github.com/Halvanhelv/MyCaptcha)
 - [Сode](https://github.com/Halvanhelv/Egrad) | [E-commerce website on a custom PHP framework](https://github.com/Halvanhelv/Egrad)
 
 
