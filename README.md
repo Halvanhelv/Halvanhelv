@@ -12,14 +12,18 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/islam_gagiev_101/)
 [![Gmail](https://img.shields.io/badge/-Mail-090909?style=for-the-badge&logo=Mail&logoColor=4F7DB3)](https://e.mail.ru/cgi-bin/sentmsg?To=omniacinis@gmail.com&from=otvet)
 
+## 👨‍💻 I'm a Backend Developer
+
+# 🌟 Open source projects I've worked on:
+- [DeepL API wrapper helps to translate only changes between revisions of long texts](https://github.com/Halvanhelv/deepl_diff)
+- [ebay_request](https://github.com/ebaymag/ebay_request) | eBay XML API request interface
+- [Ruby client to eBay RESTful JSON API](https://github.com/ebaymag/ebay_api)
 
 
 </br>
 
-## 👨‍💻 I'm a Backend Developer
-# 🌟 Pet projects I've worked on:
 
-- [Сode](https://github.com/Halvanhelv/QnA) | [DeepL API wrapper helps to translate only changes between revisions of long texts.](https://github.com/Halvanhelv/deepl_diff)
+# 🌟 Pet projects I've worked on:
 - [Сode](https://github.com/Halvanhelv/QnA) | [Stack Overflow analogue](https://github.com/Halvanhelv/QnA)
 - [Сode](https://github.com/Halvanhelv/Test-Guru) | [Creating and passing quizzes](https://github.com/Halvanhelv/Test-Guru)
 - [Сode](https://github.com/Halvanhelv/simpler) | [Rails like mini-framework](https://github.com/Halvanhelv/simpler)
