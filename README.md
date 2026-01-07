@@ -25,10 +25,10 @@
 
 
 # 🌟 Pet projects I've worked on:
-- [Сode](https://github.com/Halvanhelv/QnA) | [Stack Overflow analogue](https://github.com/Halvanhelv/QnA)
-- [Сode](https://github.com/Halvanhelv/Test-Guru) | [Creating and passing quizzes](https://github.com/Halvanhelv/Test-Guru)
-- [Сode](https://github.com/Halvanhelv/simpler) | [Rails like mini-framework](https://github.com/Halvanhelv/simpler)
-- [Сode](https://github.com/Halvanhelv/Egrad) | [E-commerce website on a custom PHP framework](https://github.com/Halvanhelv/Egrad)
+- [Code](https://github.com/Halvanhelv/QnA) | [Stack Overflow analogue](https://github.com/Halvanhelv/QnA)
+- [Code](https://github.com/Halvanhelv/Test-Guru) | [Creating and passing quizzes](https://github.com/Halvanhelv/Test-Guru)
+- [Code](https://github.com/Halvanhelv/simpler) | [Rails like mini-framework](https://github.com/Halvanhelv/simpler)
+- [Code](https://github.com/Halvanhelv/Egrad) | [E-commerce website on a custom PHP framework](https://github.com/Halvanhelv/Egrad)
 
 
 <div >
