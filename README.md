@@ -24,12 +24,8 @@
 - [Сode](https://github.com/Halvanhelv/QnA) | [Stack Overflow analogue](https://github.com/Halvanhelv/QnA)
 - [Сode](https://github.com/Halvanhelv/Test-Guru) | [Creating and passing quizzes](https://github.com/Halvanhelv/Test-Guru)
 - [Сode](https://github.com/Halvanhelv/simpler) | [Rails like mini-framework](https://github.com/Halvanhelv/simpler)
-- [Сode](https://github.com/Halvanhelv/Black_Jack) | [Console version of blackjack](https://github.com/Halvanhelv/Black_Jack)
 - [Сode](https://github.com/Halvanhelv/MyCaptcha) | [Captcha generator](https://github.com/Halvanhelv/MyCaptcha)
 - [Сode](https://github.com/Halvanhelv/Egrad) | [E-commerce website on a custom PHP framework](https://github.com/Halvanhelv/Egrad)
-
-
-- [Сode](https://github.com/Halvanhelv/Halvanhelv.github.io) | [Just layout](https://Halvanhelv.github.io)
 
 
 <div >
