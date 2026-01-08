@@ -29,6 +29,7 @@
 - [Code](https://github.com/Halvanhelv/Test-Guru) | [Creating and passing quizzes](https://github.com/Halvanhelv/Test-Guru)
 - [Code](https://github.com/Halvanhelv/simpler) | [Rails like mini-framework](https://github.com/Halvanhelv/simpler)
 - [Code](https://github.com/Halvanhelv/Egrad) | [E-commerce website on a custom PHP framework](https://github.com/Halvanhelv/Egrad)
+- [Code](https://github.com/Halvanhelv/Black_Jack) | [Blackjack card game](https://github.com/Halvanhelv/Black_Jack)
 
 
 <div >
