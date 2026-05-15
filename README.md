@@ -26,6 +26,8 @@
 
 # 🌟 Pet projects I've worked on:
 - [Code](https://github.com/Halvanhelv/QnA) | [Stack Overflow analogue](https://github.com/Halvanhelv/QnA)
+- [Code](https://github.com/matz/spinel) | [Spinel -- Ruby AOT Compiler from Matz](https://github.com/matz/spinel)
+- [Code](https://github.com/crmne/kamal-backup) | [kamal-backup, The easiest way to run scheduled backups for a Rails app deployed with Kamal.](https://github.com/crmne/kamal-backup)
 - [Code](https://github.com/Halvanhelv/Test-Guru) | [Creating and passing quizzes](https://github.com/Halvanhelv/Test-Guru)
 - [Code](https://github.com/Halvanhelv/simpler) | [Rails like mini-framework](https://github.com/Halvanhelv/simpler)
 - [Code](https://github.com/Halvanhelv/Egrad) | [E-commerce website on a custom PHP framework](https://github.com/Halvanhelv/Egrad)
