@@ -2,88 +2,133 @@
 
 [![Header](https://github.com/BRAUZER06/BRAUZER06/blob/main/assets/gandalf-sax-guy.gif)]()
 
+# 🧙‍♂️ Islam Gagiev
+
+### Team Lead & Backend Engineer @ JetRockets
+
+*Ruby on Rails · PostgreSQL · AI / LLM*
+
 </div>
 
-
-
-## Contact
+## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/islam-gagiev/)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/islam_gagiev_101/)
-[![Gmail](https://img.shields.io/badge/-Mail-090909?style=for-the-badge&logo=Mail&logoColor=4F7DB3)](https://e.mail.ru/cgi-bin/sentmsg?To=omniacinis@gmail.com&from=otvet)
+[![Gmail](https://img.shields.io/badge/-Mail-090909?style=for-the-badge&logo=Mail&logoColor=4F7DB3)](mailto:islamgagiev24@gmail.com)
 
-## 👨‍💻 I'm a Backend Developer
+## 👨‍💻 About
 
-# 🌟 Open source projects I've worked on:
-- [DeepL API wrapper helps to translate only changes between revisions of long texts](https://github.com/Halvanhelv/deepl_diff)
-- [eBay XML API request interface](https://github.com/ebaymag/ebay_request)
-- [Ruby client to eBay RESTful JSON API](https://github.com/ebaymag/ebay_api)
-- [Captcha generator](https://github.com/Halvanhelv/MyCaptcha)
-
+Backend engineer with 5+ years in Ruby on Rails, leading a team at JetRockets. These days I spend most of my time at the intersection of Rails and LLMs: RAG pipelines, vector search, AI agents, and conversational memory systems. Off the clock I tinker with compilers, mini-frameworks, and the occasional card game.
 
 </br>
 
+## 🌟 Open source I've worked on
 
-# 🌟 Pet projects I've worked on:
-- [Code](https://github.com/Halvanhelv/QnA) | [Stack Overflow analogue](https://github.com/Halvanhelv/QnA)
-- [Code](https://github.com/matz/spinel) | [Spinel -- Ruby AOT Compiler from Matz](https://github.com/matz/spinel)
-- [Code](https://github.com/crmne/kamal-backup) | [kamal-backup, The easiest way to run scheduled backups for a Rails app deployed with Kamal.](https://github.com/crmne/kamal-backup)
-- [Code](https://github.com/Halvanhelv/Test-Guru) | [Creating and passing quizzes](https://github.com/Halvanhelv/Test-Guru)
-- [Code](https://github.com/Halvanhelv/simpler) | [Rails like mini-framework](https://github.com/Halvanhelv/simpler)
-- [Code](https://github.com/Halvanhelv/Egrad) | [E-commerce website on a custom PHP framework](https://github.com/Halvanhelv/Egrad)
-- [Code](https://github.com/Halvanhelv/Black_Jack) | [Blackjack card game](https://github.com/Halvanhelv/Black_Jack)
-
-
-<div >
+- [**deepl_diff**](https://github.com/Halvanhelv/deepl_diff): DeepL API wrapper that translates only the diff between revisions of long texts
+- [**ebay_request**](https://github.com/ebaymag/ebay_request): eBay XML API request interface
+- [**ebay_api**](https://github.com/ebaymag/ebay_api): Ruby client for the eBay RESTful JSON API
+- [**MyCaptcha**](https://github.com/Halvanhelv/MyCaptcha): captcha generator
 
 </br>
 
-## 💻 My skills:
- 
- 
+## 🛠️ Pet projects
+
+- [**QnA**](https://github.com/Halvanhelv/QnA): Stack Overflow analogue
+- [**Spinel**](https://github.com/matz/spinel): Ruby AOT compiler from Matz
+- [**kamal-backup**](https://github.com/crmne/kamal-backup): scheduled backups for Rails apps deployed with Kamal
+- [**Test Guru**](https://github.com/Halvanhelv/Test-Guru): creating and passing quizzes
+- [**Simpler**](https://github.com/Halvanhelv/simpler): Rails-like mini-framework
+- [**Egrad**](https://github.com/Halvanhelv/Egrad): e-commerce on a custom PHP framework
+- [**Black Jack**](https://github.com/Halvanhelv/Black_Jack): card game
+
+</br>
+
+<div>
+
+## 💻 Stack
+
+### Backend
+
 <img src="https://img.shields.io/badge/-Ruby-090909?style=for-the-badge&logo=Ruby&logoColor=8e1c17"/>
-<img alt="rails" src="https://img.shields.io/badge/-rails-black?style=for-the-badge&logo=Ruby&logoColor=8e1c17" />
-<img src="https://img.shields.io/badge/-Rspec-090909?style=for-the-badge&logo=Ruby&logoColor=8e1c17"/>
-<img src="https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=PHP&logoColor=blue"/>
-<img src="https://img.shields.io/badge/-Graphql-090909?style=for-the-badge&logo=Graphql&logoColor=e66ec6"/>
-<img alt="Redux-Thunk" src="https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=PostgreSQL&logoColor=31648c" />
-<img src="https://img.shields.io/badge/-ClickHouse-090909?style=for-the-badge&logo=ClickHouse&logoColor=yellow"/>
-<img src="https://img.shields.io/badge/-Elasticsearch-090909?style=for-the-badge&logo=Elasticsearch&logoColor=47C5FB"/> 
-<img src="https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker&logoColor=1582c3"/>
-<img src="https://img.shields.io/badge/-Redis-090909?style=for-the-badge&logo=Redis&logoColor=8e1c17"/>
+<img src="https://img.shields.io/badge/-Rails-090909?style=for-the-badge&logo=rubyonrails&logoColor=CC0000"/>
+<img src="https://img.shields.io/badge/-RSpec-090909?style=for-the-badge&logo=Ruby&logoColor=8e1c17"/>
+<img src="https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=Go&logoColor=00ADD8"/>
+<img src="https://img.shields.io/badge/-GraphQL-090909?style=for-the-badge&logo=Graphql&logoColor=e66ec6"/>
+<img src="https://img.shields.io/badge/-Action%20Cable-090909?style=for-the-badge&logo=rubyonrails&logoColor=CC0000"/>
 <img src="https://img.shields.io/badge/-Sidekiq-090909?style=for-the-badge&logo=Sidekiq&logoColor=ab013c"/>
+<img src="https://img.shields.io/badge/-SolidQueue-090909?style=for-the-badge&logo=Ruby&logoColor=8e1c17"/>
+<img src="https://img.shields.io/badge/-SolidCable-090909?style=for-the-badge&logo=Ruby&logoColor=8e1c17"/>
+<img src="https://img.shields.io/badge/-ViewComponent-090909?style=for-the-badge&logo=Ruby&logoColor=8e1c17"/>
+<img src="https://img.shields.io/badge/-AASM-090909?style=for-the-badge&logo=Ruby&logoColor=8e1c17"/>
+<img src="https://img.shields.io/badge/-Pundit-090909?style=for-the-badge&logo=Ruby&logoColor=8e1c17"/>
+<img src="https://img.shields.io/badge/-Rolify-090909?style=for-the-badge&logo=Ruby&logoColor=8e1c17"/>
+<img src="https://img.shields.io/badge/-Ransack-090909?style=for-the-badge&logo=Ruby&logoColor=8e1c17"/>
+<img src="https://img.shields.io/badge/-Pagy-090909?style=for-the-badge&logo=Ruby&logoColor=8e1c17"/>
+<img src="https://img.shields.io/badge/-Rodauth-090909?style=for-the-badge&logo=Ruby&logoColor=8e1c17"/>
+<img src="https://img.shields.io/badge/-Grape-090909?style=for-the-badge&logo=Ruby&logoColor=8e1c17"/>
+<img src="https://img.shields.io/badge/-Shrine-090909?style=for-the-badge&logo=Ruby&logoColor=8e1c17"/>
+<img src="https://img.shields.io/badge/-Audited-090909?style=for-the-badge&logo=Ruby&logoColor=8e1c17"/>
+
+### Databases & Search
+
+<img src="https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL&logoColor=31648c"/>
+<img src="https://img.shields.io/badge/-pgvector-090909?style=for-the-badge&logo=PostgreSQL&logoColor=31648c"/>
+<img src="https://img.shields.io/badge/-ClickHouse-090909?style=for-the-badge&logo=ClickHouse&logoColor=FFCC01"/>
+<img src="https://img.shields.io/badge/-Elasticsearch-090909?style=for-the-badge&logo=Elasticsearch&logoColor=47C5FB"/>
+<img src="https://img.shields.io/badge/-Redis-090909?style=for-the-badge&logo=Redis&logoColor=8e1c17"/>
+
+### AI / LLM
+
+<img src="https://img.shields.io/badge/-OpenAI-090909?style=for-the-badge&logo=OpenAI&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Anthropic-090909?style=for-the-badge&logo=Anthropic&logoColor=D97757"/>
+<img src="https://img.shields.io/badge/-Gemini-090909?style=for-the-badge&logo=GoogleGemini&logoColor=8E75B2"/>
+<img src="https://img.shields.io/badge/-Perplexity-090909?style=for-the-badge&logo=Perplexity&logoColor=1FB8CD"/>
+<img src="https://img.shields.io/badge/-Azure%20OpenAI-090909?style=for-the-badge&logo=microsoftazure&logoColor=0078D4"/>
+<img src="https://img.shields.io/badge/-RubyLLM-090909?style=for-the-badge&logo=Ruby&logoColor=8e1c17"/>
+<img src="https://img.shields.io/badge/-RAG-090909?style=for-the-badge&logo=databricks&logoColor=FF3621"/>
+<img src="https://img.shields.io/badge/-MCP-090909?style=for-the-badge&logo=Anthropic&logoColor=D97757"/>
+<img src="https://img.shields.io/badge/-Tesseract%20OCR-090909?style=for-the-badge&logo=tesseract&logoColor=3776AB"/>
+
+### Frontend
+
 <img src="https://img.shields.io/badge/-Hotwire-090909?style=for-the-badge&logo=Hotwire&logoColor=ab013c"/>
-<img src="https://img.shields.io/badge/-grape-090909?style=for-the-badge&logo=grape&logoColor=ab013c"/>
-<img src="https://img.shields.io/badge/-Capistrano-090909?style=for-the-badge&logo=Capistrano&logoColor=ab013c"/>
-
-</br>
+<img src="https://img.shields.io/badge/-Turbo-090909?style=for-the-badge&logo=Hotwire&logoColor=ab013c"/>
+<img src="https://img.shields.io/badge/-Stimulus-090909?style=for-the-badge&logo=Stimulus&logoColor=77E1E1"/>
+<img src="https://img.shields.io/badge/-Vite-090909?style=for-the-badge&logo=Vite&logoColor=BD34FE"/>
+<img src="https://img.shields.io/badge/-TailwindCSS-090909?style=for-the-badge&logo=TailwindCSS&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/-HAML-090909?style=for-the-badge&logo=haml&logoColor=ECB561"/>
 <img src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=FFFF00"/>
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Sass&color=000000&logo=Sass&logoColor=CC6699&label="/>
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Less&color=000000&logo=Less&logoColor=1e416f&label="/>
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Scss&color=000000&logo=Scss&logoColor=fc00a8&label="/>
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=000000&logo=CSS3&logoColor=1572B6&label="/>
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=000000&logo=HTML5&logoColor=E34F26&label="/>
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Pug&color=000000&logo=Pug&logoColor=eac8a0&label="/>
-<img src="https://img.shields.io/badge/-bootstrap-090909?style=for-the-badge&logo=bootstrap&logoColor=aqua"/>
+<img src="https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=Sass&logoColor=CC6699"/>
+<img src="https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=E34F26"/>
 
-</br>
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=000000&logo=Postman&logoColor=FF6C37&label="/>
+### DevOps & Infrastructure
+
+<img src="https://img.shields.io/badge/-Kamal-090909?style=for-the-badge&logo=Docker&logoColor=1582c3"/>
+<img src="https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker&logoColor=1582c3"/>
+<img src="https://img.shields.io/badge/-AWS-090909?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/-AWS%20S3-090909?style=for-the-badge&logo=amazons3&logoColor=569A31"/>
+<img src="https://img.shields.io/badge/-Overmind-090909?style=for-the-badge&logo=Ruby&logoColor=8e1c17"/>
+<img src="https://img.shields.io/badge/-Capistrano-090909?style=for-the-badge&logo=Capistrano&logoColor=ab013c"/>
 <img src="https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git&logoColor=f75e5e"/>
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=000000&logo=GitHub&logoColor=FFFFFF&label="/>
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHubPages&color=000000&logo=GitHub&logoColor=FFFFFF&label="/>
+<img src="https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=GitHub&logoColor=FFFFFF"/>
+
+### Integrations & Monitoring
+
+<img src="https://img.shields.io/badge/-Stripe-090909?style=for-the-badge&logo=Stripe&logoColor=626CD9"/>
+<img src="https://img.shields.io/badge/-Shopify-090909?style=for-the-badge&logo=Shopify&logoColor=7AB55C"/>
+<img src="https://img.shields.io/badge/-Resend-090909?style=for-the-badge&logo=resend&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/-AppSignal-090909?style=for-the-badge&logo=AppSignal&logoColor=21375A"/>
+<img src="https://img.shields.io/badge/-PostHog-090909?style=for-the-badge&logo=PostHog&logoColor=F54E00"/>
+<img src="https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=FF6C37"/>
 
 </br>
- 
- ##
 
- ### That I would like to study in the future:
+##
 
+### Currently exploring
 
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=GO&color=000000&logo=GO&logoColor=blue&label="/>
-<img src="https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=aqua"/>
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js&logoColor=green" />
-<img alt="Nodejs" src="https://img.shields.io/badge/-Elixir-black?style=for-the-badge&logo=Elixir&logoColor=341a42" />
-
+<img src="https://img.shields.io/badge/-Elixir-090909?style=for-the-badge&logo=Elixir&logoColor=A371F7"/>
+<img src="https://img.shields.io/badge/-Rust-090909?style=for-the-badge&logo=Rust&logoColor=DEA584"/>
+<img src="https://img.shields.io/badge/-Crystal-090909?style=for-the-badge&logo=Crystal&logoColor=white"/>
 
 </div>
-
