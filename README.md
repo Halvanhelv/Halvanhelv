@@ -29,7 +29,6 @@ Backend engineer with 5+ years in Ruby on Rails, leading a team at JetRockets. T
 - [**deepl_diff**](https://github.com/Halvanhelv/deepl_diff): DeepL API wrapper that translates only the diff between revisions of long texts
 - [**ebay_request**](https://github.com/ebaymag/ebay_request): eBay XML API request interface
 - [**ebay_api**](https://github.com/ebaymag/ebay_api): Ruby client for the eBay RESTful JSON API
-- [**MyCaptcha**](https://github.com/Halvanhelv/MyCaptcha): captcha generator
 
 </br>
 
@@ -40,6 +39,7 @@ Backend engineer with 5+ years in Ruby on Rails, leading a team at JetRockets. T
 - [**Simpler**](https://github.com/Halvanhelv/simpler): Rails-like mini-framework
 - [**Egrad**](https://github.com/Halvanhelv/Egrad): e-commerce on a custom PHP framework
 - [**Black Jack**](https://github.com/Halvanhelv/Black_Jack): card game
+- [**MyCaptcha**](https://github.com/Halvanhelv/MyCaptcha): captcha generator
 
 </br>
 
