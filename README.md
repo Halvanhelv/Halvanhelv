@@ -24,8 +24,8 @@ Backend engineer with 5+ years in Ruby on Rails, leading a team at JetRockets. T
 
 ## 🌟 Open source I've worked on
 - [**Spinel**](https://github.com/matz/spinel): Ruby AOT compiler from Matz
-- [**kamal-backup**](https://github.com/crmne/kamal-backup): scheduled backups for Rails apps deployed with Kamal
 - [**anycable**](https://github.com/anycable/anycable): is a realtime server for two-way reliable communication over WebSockets and SSE
+- [**kamal-backup**](https://github.com/crmne/kamal-backup): scheduled backups for Rails apps deployed with Kamal
 - [**deepl_diff**](https://github.com/Halvanhelv/deepl_diff): DeepL API wrapper that translates only the diff between revisions of long texts
 - [**ebay_request**](https://github.com/ebaymag/ebay_request): eBay XML API request interface
 - [**ebay_api**](https://github.com/ebaymag/ebay_api): Ruby client for the eBay RESTful JSON API
