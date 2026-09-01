@@ -24,21 +24,16 @@ Backend engineer with 5+ years in Ruby on Rails, leading a team at JetRockets. T
 
 ## 🌟 Open source I've worked on
 
-### 2026
-
-- [**Spinel**](https://github.com/matz/spinel) (⭐1.7k): Ruby AOT compiler from Matz — 9 merged PRs in codegen and runtime: `Integer#lcm`, two-argument `Integer#pow(exp, mod)`, `#allbits?` / `#anybits?` / `#nobits?`, `#pred`, `#ceildiv`, `#div`, `String#chop`
-- [**Sorbet**](https://github.com/sorbet/sorbet) (⭐3.8k): Ruby type checker — constant kind shown in LSP hover (merged); routing `sig` coercion failures through `sig_builder_error_handler` (open)
-- [**apple/containerization**](https://github.com/apple/containerization) (⭐8.9k): Linux containers on macOS — OCI arm64 platform description rendered without the redundant `v8`
-- [**anycable**](https://github.com/anycable/anycable) (⭐2.4k): realtime server for two-way communication over WebSockets and SSE — SSE multi-line payloads split across `data:` fields
-- [**annotaterb**](https://github.com/drwl/annotaterb) (⭐617): schema annotations for Rails models — fixture annotations kept out of ERB blocks
-- [**kino**](https://github.com/yaroslav/kino) (⭐279): Ractor-parallel web server for Ruby 4.0 with a Rust Tokio/Hyper front-end — CLI module specs
-- [**kamal-backup**](https://github.com/crmne/kamal-backup) (⭐152): scheduled backups for Rails apps deployed with Kamal — test coverage for Evidence, Command and Redactor
-- [**jet_ui**](https://github.com/jetrockets/jet_ui) (⭐43): Rails UI component collection — Stimulus controllers shipped as an npm package for Vite, importmap crash fixed
-- [**rails**](https://github.com/rails/rails): cross-database schema cache for PostgreSQL extension types (open)
-- [**stoplight**](https://github.com/bolshakov/stoplight) (⭐630): circuit breaker for Ruby — experimental PostgreSQL data store adapter (proposed)
-
-### Earlier
-
+- [**Spinel**](https://github.com/matz/spinel): Ruby AOT compiler from Matz
+- [**Sorbet**](https://github.com/sorbet/sorbet): fast, powerful type checker for Ruby
+- [**containerization**](https://github.com/apple/containerization): Apple's Swift package for running Linux containers on macOS
+- [**anycable**](https://github.com/anycable/anycable): realtime server for two-way reliable communication over WebSockets and SSE
+- [**rails**](https://github.com/rails/rails): the framework itself
+- [**stoplight**](https://github.com/bolshakov/stoplight): circuit breaker for Ruby
+- [**annotaterb**](https://github.com/drwl/annotaterb): schema annotations for Rails models and routes
+- [**kino**](https://github.com/yaroslav/kino): Ractor-parallel web server for Ruby 4.0 with a Rust Tokio/Hyper front-end
+- [**kamal-backup**](https://github.com/crmne/kamal-backup): scheduled backups for Rails apps deployed with Kamal
+- [**jet_ui**](https://github.com/jetrockets/jet_ui): Rails UI component collection
 - [**deepl_diff**](https://github.com/Halvanhelv/deepl_diff): DeepL API wrapper that translates only the diff between revisions of long texts
 - [**kamal-github-actions**](https://github.com/Halvanhelv/kamal-github-actions): Kamal 2 deploy workflows for DigitalOcean, AWS, Selectel and Yandex Cloud
 - [**ebay_request**](https://github.com/ebaymag/ebay_request): eBay XML API request interface
